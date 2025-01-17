@@ -1,2 +1,3 @@
 # Ignore git crypt key
 git-crypt-key
+airodump-output/*
