@@ -1,1 +1,3 @@
 *.sh filter=git-crypt diff=git-crypt
+wpa-deauth/ filter=git-crypt diff=git-crypt
+wpa-deauth/* filter=git-crypt diff=git-crypt
